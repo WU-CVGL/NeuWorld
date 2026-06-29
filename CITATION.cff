@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you find NeuWorld useful, please cite this work."
+title: "NeuWorld"
+type: software
+authors:
+  - family-names: Li
+    given-names: Zhiqi
+  - family-names: Dong
+    given-names: Chengrui
+  - family-names: Du
+    given-names: Zhenhua
+  - family-names: Zhou
+    given-names: Hangning
+  - family-names: Qiu
+    given-names: Cong
+  - family-names: Qin
+    given-names: Hailong
+  - family-names: Yang
+    given-names: Mu
+  - family-names: Wei
+    given-names: Dongxu
+  - family-names: Liu
+    given-names: Peidong
+url: "https://lizhiqi49.github.io/NeuWorld"
+preferred-citation:
+  type: conference-paper
+  title: "Walking in the Implicit: Interactive World Exploration via Neural Scene Representation"
+  authors:
+    - family-names: Li
+      given-names: Zhiqi
+    - family-names: Dong
+      given-names: Chengrui
+    - family-names: Du
+      given-names: Zhenhua
+    - family-names: Zhou
+      given-names: Hangning
+    - family-names: Qiu
+      given-names: Cong
+    - family-names: Qin
+      given-names: Hailong
+    - family-names: Yang
+      given-names: Mu
+    - family-names: Wei
+      given-names: Dongxu
+    - family-names: Liu
+      given-names: Peidong
+  conference: "European Conference on Computer Vision"
+  year: 2026
