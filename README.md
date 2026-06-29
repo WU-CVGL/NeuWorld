@@ -8,6 +8,9 @@
   <a href="https://arxiv.org/abs/0000.00000">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg">
   </a>
+  <a href="assets/NeuWorld-arxiv.pdf">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-PDF-4b5563.svg">
+  </a>
   <a href="https://lizhiqi49.github.io/NeuWorld">
     <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-1e6bff.svg">
   </a>
@@ -81,4 +84,3 @@ If you find our work useful, please cite:
   year      = {2026}
 }
 ```
-
